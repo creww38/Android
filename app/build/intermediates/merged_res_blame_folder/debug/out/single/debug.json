@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-merged_res-20:\\drawable_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-main-22:\\drawable\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-merged_res-20:\\mipmap-xhdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-main-22:\\mipmap-xhdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-merged_res-20:\\mipmap-xxxhdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-main-22:\\mipmap-xxxhdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "com.example.service.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "com.example.service.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-merged_res-20:\\mipmap-hdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-main-22:\\mipmap-hdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-merged_res-20:\\mipmap-xxhdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-main-22:\\mipmap-xxhdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-merged_res-20:\\xml_service_config.xml.flat",
+        "source": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-main-22:\\xml\\service_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-merged_res-20:\\mipmap-mdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\DAUN\\.gradle\\daemon\\8.4\\com.example.service.app-main-22:\\mipmap-mdpi\\ic_launcher.jpg"
+    }
+]

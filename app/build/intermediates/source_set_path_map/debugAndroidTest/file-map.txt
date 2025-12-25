@@ -1,0 +1,4 @@
+com.example.service.test.app-androidTest-0 D:\lhusus github\Android\app\build\generated\res\resValues\androidTest\debug
+com.example.service.test.app-mergeDebugAndroidTestResources-1 D:\lhusus github\Android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.service.test.app-mergeDebugAndroidTestResources-2 D:\lhusus github\Android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.service.test.app-merged_res-3 D:\lhusus github\Android\app\build\intermediates\merged_res\debugAndroidTest

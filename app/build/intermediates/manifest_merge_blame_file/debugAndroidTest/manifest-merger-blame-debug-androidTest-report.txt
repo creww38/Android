@@ -1,0 +1,34 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.service.test" >
+4
+5    <uses-sdk
+5-->D:\lhusus github\Android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4929437738858037693.xml:5:5-74
+6        android:minSdkVersion="24"
+6-->D:\lhusus github\Android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4929437738858037693.xml:5:15-41
+7        android:targetSdkVersion="34" />
+7-->D:\lhusus github\Android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4929437738858037693.xml:5:42-71
+8
+9    <instrumentation
+9-->D:\lhusus github\Android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4929437738858037693.xml:11:5-15:69
+10        android:name="android.test.InstrumentationTestRunner"
+10-->D:\lhusus github\Android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4929437738858037693.xml:11:22-75
+11        android:functionalTest="false"
+11-->D:\lhusus github\Android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4929437738858037693.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\lhusus github\Android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4929437738858037693.xml:13:22-53
+13        android:label="Tests for com.example.service"
+13-->D:\lhusus github\Android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4929437738858037693.xml:15:22-67
+14        android:targetPackage="com.example.service" />
+14-->D:\lhusus github\Android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4929437738858037693.xml:12:22-65
+15
+16    <application
+16-->D:\lhusus github\Android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4929437738858037693.xml:7:5-9:19
+17        android:debuggable="true"
+18        android:extractNativeLibs="false" >
+19        <uses-library android:name="android.test.runner" />
+19-->D:\lhusus github\Android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4929437738858037693.xml:8:9-60
+19-->D:\lhusus github\Android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest4929437738858037693.xml:8:23-57
+20    </application>
+21
+22</manifest>
